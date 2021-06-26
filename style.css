@@ -1,0 +1,49 @@
+body{
+  text-align:center;
+}
+h1{
+padding-bottom: 1rem;
+  font-size: 30px;
+  margin-top: 90px;
+  font-family: 'DotGothic16', cursive;
+}
+h2{
+  padding-bottom: 1rem;
+
+font-weight: bold;
+font-family: 'DotGothic16', sans-serif;
+}
+h3
+{
+font-family: 'DotGothic16', sans-serif;
+padding-bottom: 1rem;
+
+  }
+img{
+  height:200px;
+  width:200px;
+}
+
+.skill-row{
+
+   line-height: 2;
+
+}
+table{
+  margin-left:auto;
+  margin-right:auto;
+  table-layout:fixed;
+}
+.top-container{
+  background-color:#FFF5EB;
+}
+.middle-container{
+ background-color:#FFF5EB;
+}
+.bottom-container{
+background-color:#FFF5EB;
+}
+
+.btn btn-dark btn-sm botton{
+margin:10% 34% 50% 100%;
+}
